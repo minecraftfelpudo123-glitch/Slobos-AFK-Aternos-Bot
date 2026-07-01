@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "vyro.mcsh.io",
-    "port": 25565,
+    "port": 12080,
     "version": "",
     "try-creative": false
   },
